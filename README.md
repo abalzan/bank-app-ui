@@ -1,7 +1,3 @@
-This is the frontend for bank-app 
-Based on Spring security Course from https://www.udemy.com/course/spring-security-zero-to-master
-this project has the objective to deal with CSRF CORs
-
 # BankAppUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.

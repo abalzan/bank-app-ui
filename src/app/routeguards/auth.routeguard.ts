@@ -17,7 +17,7 @@ export class AuthActivateRouteGuard implements CanActivate {
         if(!this.user){
             this.router.navigate(['login']);
         }
-        return !!this.user;
+        return this.user?true:false;
     }
 
 }
